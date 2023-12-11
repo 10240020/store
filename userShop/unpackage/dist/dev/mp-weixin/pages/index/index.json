@@ -1,0 +1,29 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "u-icon": "../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "u-picker": "../../uni_modules/uview-plus/components/u-picker/u-picker",
+    "tool": "../../compoments/tool",
+    "shop-card": "../../compoments/shopCard",
+    "order-list": "../../compoments/orderList",
+    "total": "../../compoments/total",
+    "addres-compments": "../../compoments/address",
+    "edit-order": "../../compoments/editOrder",
+    "address-select": "../../compoments/addressSelect",
+    "edit-address": "../../compoments/editAddress",
+    "shop-list-card": "../../compoments/shopListCard",
+    "select-popup": "../../compoments/selectPopup",
+    "comment": "../../compoments/comment",
+    "shopping-cart": "../../compoments/shoppingCart",
+    "settlement-all": "../../compoments/settlementAll",
+    "delivery-select": "../../compoments/delivery",
+    "order-message": "../../compoments/orderMessage",
+    "order-status-card": "../../compoments/orderStatusCard",
+    "refund-card": "../../compoments/refund",
+    "certificate-card": "../../compoments/certificate",
+    "appeal-card": "../../compoments/appeal",
+    "appeal-status-card": "../../compoments/appealStatus",
+    "multiple-reviews": "../../compoments/multiple",
+    "store-description-card": "../../compoments/storeDescription"
+  }
+}

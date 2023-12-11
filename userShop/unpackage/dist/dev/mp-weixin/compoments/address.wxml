@@ -1,0 +1,1 @@
+<view class="address data-v-115ee0e6"><view class="address-content data-v-115ee0e6"><view wx:for="{{a}}" wx:for-item="s" class="addres-list data-v-115ee0e6"><view class="addres-text font-min public-flex data-v-115ee0e6"><text class="data-v-115ee0e6">{{s.a}}</text><text class="data-v-115ee0e6">{{s.b}}</text></view></view></view></view>
